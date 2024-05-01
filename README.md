@@ -54,6 +54,6 @@
 
 ---
   
-![github contribution grid snake animation](https://raw.githubusercontent.com/0-Sacha/0-Sacha/output/github-contribution-grid-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/0-Sacha/0-Sacha/snake/github-contribution-grid-snake.svg)
 
 ---
