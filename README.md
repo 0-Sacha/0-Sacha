@@ -26,7 +26,11 @@
 <p align="center">
   <img alt="Bazel" height="40" src="Assets/bazel.svg"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
   <img alt="Buildkite" height="40" src="Assets/buildkite.svg"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="BuildBuddy" height="40" src="Assets/buildbuddy.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="Assets/buildbuddy-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="Assets/buildbuddy.svg" />
+    <img alt="BuildBuddy" height="40" src="Assets/buildbuddy.svg" />
+  </picture>
 </p>
 
 <p></p>
@@ -49,7 +53,7 @@
 </p>
 
 ---
-  
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/0-Sacha/0-Sacha/snake/github-contribution-grid-snake.svg)
 
 ---
