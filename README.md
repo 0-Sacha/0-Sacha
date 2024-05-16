@@ -2,13 +2,10 @@
   <h1>Hi there 👋, I'm Sacha !</h1>
 </div>
 
-<br>
-<div>
-  <a href="https://github.com/0-Sacha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0-Sacha&show_icons=true&theme=dracula&include_all_commits=true"/>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0-Sacha&show_icons=true&theme=dracula&include_all_commits=true"/> &nbsp; &nbsp; &nbsp; 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0-Sacha&hide=css,html,javascript&layout=compact&langs_count=7&theme=dracula&show_icons=true"/>
 </p>
-</div>
 
 ---
 
