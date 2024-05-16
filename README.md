@@ -12,45 +12,44 @@
 
 ---
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img align="center" alt="vscode" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  
-  <img align="center" alt="visualstudio" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
-</div>
+<p align="center">
+  <img alt="C" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="C++" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
+</p>
 
 <p></p>
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img align="center" alt="C" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-</div>
+<p align="center">
+  <img alt="C" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="C++" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+</p>
 
 <p></p>
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img align="center" alt="Bazel" height="40" src="Assets/bazel.svg">
-  <img align="center" alt="Buildkite" height="40" src="Assets/buildkite.svg">
-  <img align="center" alt="BuildBuddy" height="40" src="Assets/buildbuddy.svg">
-</div>
+<p align="center">
+  <img alt="Bazel" height="40" src="Assets/bazel.svg"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="Buildkite" height="40" src="Assets/buildkite.svg"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="BuildBuddy" height="40" src="Assets/buildbuddy.svg">
+</p>
 
 <p></p>
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img align="center" alt="Bazel" height="40" src="Assets/premake.png">
-</div>
+<p align="center">
+  <img alt="Premake" height="40" src="Assets/premake.png">
+</p>
 
 <p></p>
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <img align="center" alt="Bazel" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg">
-</div>
+<p align="center">
+  <img alt="OpenGL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opengl/opengl-original.svg">
+</p>
 
 ---
 
-<div style="display: flex; justify-content: center; gap: 20px;">
+<p align="center">
   <a href="https://github.com/0-Sacha" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sacha-bellier/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+</p>
 
 ---
   
